@@ -45,10 +45,3 @@ Before you start using this bot, make sure you have the following installed:
 
 
 - `authStrategy`: You can choose a different authentication strategy. In this example, the bot uses `LocalAuth`.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to contribute or report issues!
-
